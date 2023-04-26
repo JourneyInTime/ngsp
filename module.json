@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "NGSP"
+    },
+    "servers": ["https://saltymonkey.online/update/"],
+    "supportUrl": "DM",
+    "drmKey": "iu9z7k1ruir9431ikcsbbr"
+}
