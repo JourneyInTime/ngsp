@@ -21,7 +21,7 @@
 	"defaultPingValue": 40,
 	"enabled": true,
 	"fastCastBlockCalibrationType": "jitter",
-	"fastCastSkillsCalibrationTime": 10,
+	"fastCastSkillsCalibrationTime": 0,
 	"forceResyncReactions": false,
 	"ingameUIPing": "min",
 	"jitterCompensation": true,
